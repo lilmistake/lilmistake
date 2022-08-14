@@ -1,15 +1,16 @@
-<h1 align="center">HEY 👋, I'm 200</h1>
-<h3 align="center">👀 Looking for open source projects to work on</h3>
+<h2 align="center">Hi 👋, I'm 200</h2>
+<h4 align="center">and i'm Looking for open source projects to work on 👀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilmistake&label=Profile%20views&color=0e75b6&style=flat" alt="lilmistake" /> </p>
 
 <p align="left"> <a href="https://twitter.com/booqus" target="blank"><img src="https://img.shields.io/twitter/follow/booqus?logo=twitter&style=for-the-badge" alt="booqus" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and problem solving 💪 
 
-- 💬 Ask me about **nodejs or anything tech related :D**
+- 💬 Ask me about nodejs or anything tech related, always down for a conversation :D
 
-- 📫 You can reach me **on Twitter or Discord (200#2902)**
+- 🤦‍♂️ Will make a portfolio soon, I promise
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
