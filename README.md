@@ -11,6 +11,8 @@
 
 - 🤦‍♂️ Will make a portfolio soon, I promise
 
+- ❤️ Check out my Discord bot [Simple Profile](https://top.gg/bot/773384372819722290)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
