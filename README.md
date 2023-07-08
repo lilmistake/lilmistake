@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm 200</h2>
+<h2 align="center">Hi 👋, I'm Rohit</h2>
 <h4 align="center">and i'm Looking for open source projects to work on 👀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilmistake&label=Profile%20views&color=0e75b6&style=flat" alt="lilmistake" /> </p>
