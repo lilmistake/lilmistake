@@ -11,8 +11,6 @@
 
 - 🤦‍♂️ Will make a portfolio soon, I promise
 
-- ❤️ Check out my Discord bot [Simple Profile](https://top.gg/bot/773384372819722290)
-
 [![@lilmistake's Holopin board](https://holopin.me/lilmistake)](https://holopin.io/@lilmistake)
 
 
